@@ -20,10 +20,10 @@ I am a Computer Engineering graduate and I have a master degree in High Performa
   
 </div>
 
-## Contact
+##
 
 <div id="badges">
-  <a href="www.linkedin.com/in/omar-montenegro-macia">
+  <a href="https://www.linkedin.com/in/omar-montenegro-macia">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:omarmontenegromacia@gmail.com">
