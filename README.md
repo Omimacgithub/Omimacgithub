@@ -1,6 +1,6 @@
 ## About myself
 
-I am a Computer Engineering graduate specialized in Artificial Intelligence applications and High Performance Computing (HPC). I am motivated by developing solutions that process and analyze data from multiple sources, as well as optimizing them to run efficiently on embedded systems, virtualized environments and/or cloud infrastructures.
+I am a Computer Engineering graduate and I have a master degree in High Performance Computing (HPC). I am motivated by developing solutions that process and analyze data from multiple sources, as well as optimizing them to run efficiently on embedded systems, virtualized environments and/or cloud infrastructures.
 
 - 🔭 I’m currently working on an AI agent web application called [OCMCP](https://gitlab.com/DisguisedPigeon/ocmcp) with [DisguisedPigeon](https://github.com/DisguisedPigeon).
 - 🌱 I’m currently learning about AI agents architecture and ways to execute LLMs on local hardware.
@@ -23,25 +23,10 @@ I am a Computer Engineering graduate specialized in Artificial Intelligence appl
 ## Contact
 
 <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="www.linkedin.com/in/omar-montenegro-macia">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:omarmontenegromacia@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/>
   </a>
 </div>
-
-<!--
-**Omimacgithub/Omimacgithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
