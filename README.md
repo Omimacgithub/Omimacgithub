@@ -17,6 +17,7 @@ I am a Computer Engineering graduate and I have a master degree in High Performa
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas logo" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy logo" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/scipy/scipy-original-wordmark.svg" title="Scipy" alt="Scipy logo" width="80" height="80"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C logo" width="80" height="80"/>&nbsp;
   
 </div>
 
