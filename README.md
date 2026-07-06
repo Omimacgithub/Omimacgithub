@@ -3,7 +3,7 @@
 I am a Computer Engineering graduate and I have a master degree in High Performance Computing (HPC). I am motivated by developing software that process and analyze data from multiple sources, as well as optimizing it to run efficiently on embedded systems, virtualized environments and/or cloud infrastructures.
 
 - 🔭 I’m currently working on an AI agent web application called [OCMCP](https://gitlab.com/DisguisedPigeon/ocmcp) with [DisguisedPigeon](https://github.com/DisguisedPigeon).
-- 🌱 I’m currently learning about AI agents architecture and ways to execute LLMs on local hardware.
+- 🌱 I’m currently learning about Machine Learning applied to solve Natural Language Processing tasks.
 
 ## Languages and tools
 <div>
