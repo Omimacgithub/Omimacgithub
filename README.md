@@ -21,7 +21,7 @@ I am a Computer Engineering graduate and I have a master degree in High Performa
   
 </div>
 
-##
+## Contact
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/omar-montenegro-macia">
