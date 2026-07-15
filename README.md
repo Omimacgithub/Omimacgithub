@@ -13,7 +13,7 @@
 
 I am a Computer Engineering graduate and I have a master degree in High-Performance Computing (HPC). My motivation is centered on developing solutions to real-world problems by applying the latest advances in Machine Learning, as well as their subsequent optimization and deployment on cloud infrastructures and HPC clusters.
 
-I also have experience in Robotics and related technologies. SLAM, GPS localization, intelligent algorithms and related technologies are interesting for me!
+I also have experience in Robotics and related technologies. SLAM, GPS localization, intelligent algorithms and related technologies are of my interest!
 
 - 🔭 I’m currently investigating on ways to implement a multi-modal RAG system on [JETRAG](https://github.com/Omimacgithub/JETRAG).
 - 🌱 I’m currently learning about Machine Learning applied to solve Natural Language Processing tasks.
@@ -34,7 +34,7 @@ I worked as CITIC research Intern on the High-Performance Computing field. Despi
 
 - Researched and implemented a method for biometric template protection that prevents an attacker from reconstructing the original face image from model features, thereby fulfilling the requirements of the General Data Protection Regulation (GDPR). (WIP: publication).
 
-**eCommerce developer Intern - Orienteed, S.L.U | 09/2023 – 12/2023** (External Internship)
+**eCommerce Developer - Orienteed, S.L.U | 09/2023 – 12/2023** (External Internship)
 
 My main contributions were the following:
 
@@ -53,7 +53,6 @@ My main contributions were the following:
 **Bachelor's Degree in Computer Engineering (Final Grade: 8.0/10) - UDC | 09/2020 – 07/2024**
 
 - Bachelor's Thesis (Grade: 8.8/10): Tool for Creating and Monitoring ROS (Robot Operating System) Missions for Precisely Localizable Mobile Robots ([repository](https://github.com/Omimacgithub/summit_xl_rosmc), [publication](https://ruc.udc.es/entities/publication/862bed3e-c7c4-4a71-95fc-fb7eae639d4d)).
-
 
 ## Projects
 
