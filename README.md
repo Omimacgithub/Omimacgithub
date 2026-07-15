@@ -1,9 +1,65 @@
+## Contact
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/omar-montenegro-macia">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:omarmontenegromacia@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/>
+  </a>
+</div>
+
 ## About myself
 
-I am a Computer Engineering graduate and I have a master degree in High Performance Computing (HPC). I am motivated by developing software that process and analyze data from multiple sources, as well as optimizing it to run efficiently on embedded systems, virtualized environments and/or cloud infrastructures.
+I am a Computer Engineering graduate and I have a master degree in High-Performance Computing (HPC). My motivation is centered on developing solutions to real-world problems by applying the latest advances in Machine Learning, as well as their subsequent optimization and deployment on cloud infrastructures and HPC clusters.
 
-- 🔭 I’m currently working on an AI agent web application called [OCMCP](https://gitlab.com/DisguisedPigeon/ocmcp) with [DisguisedPigeon](https://github.com/DisguisedPigeon).
+I also have experience in Robotics and related technologies. SLAM, GPS localization, intelligent algorithms and related technologies are interesting for me!
+
+- 🔭 I’m currently investigating on ways to implement a multi-modal RAG system on [JETRAG](https://github.com/Omimacgithub/JETRAG).
 - 🌱 I’m currently learning about Machine Learning applied to solve Natural Language Processing tasks.
+
+## Experience
+
+**HPC Research Intern – CITIC (Centro de Investigación en TIC) | 02/2025 – 08/2025** (External Internship)
+
+I worked as CITIC research Intern on the High-Performance Computing field. Despite having my own office seat, my site was on robotics lab, where I managed Summit_XL mobile robot for software development. My main contributions were the following:
+
+- Optimized image pre and post-processing pipelines, as well as computer vision models inference within a multi-camera detection and recognition system, reducing inference latency by up to six times.
+
+- Integrated a Machine Learning algorithm that identifies new individuals based on the system's data distribution and includes them, thereby expanding the knowledge base without needing to retrain the models.
+
+- Developed a face-tracking algorithm that efficiently recollects frame sequences for each individual. It was tested on videos sampled from two Kinect cameras installed on a mobile robot, with both people and the robot in motion, causing multiple visual occlusions involving objects and other people.
+
+- Deployed the system using Docker, creating separate containers for the application (with NVIDIA GPU support) and a Redis database. The deployment was managed through a docker-compose.yml configuration.
+
+- Researched and implemented a method for biometric template protection that prevents an attacker from reconstructing the original face image from model features, thereby fulfilling the requirements of the General Data Protection Regulation (GDPR). (WIP: publication).
+
+**eCommerce developer Intern - Orienteed, S.L.U | 09/2023 – 12/2023** (External Internship)
+
+My main contributions were the following:
+
+- Analyzed and modified React code within the company’s B2B Store (storefront), eliminating product loading errors and significantly improving user experience.
+
+- Implemented resolvers (JavaScript code that integrates backend data, obtained via REST or GraphQL requests, into the frontend) for product details and gift card application at checkout on the B2B Store.
+
+- Collaborated with multidisciplinary teams (development and QA) following Agile methodologies (Scrum).
+
+## Education
+
+**Master's Degree in High-Performance Computing (Final Grade: 8.7/10) - UDC · USC · CESGA | 09/2024 – 02/2026**
+
+- Master's Thesis (Grade: 9.5/10): Machine Learning-Based Facial Recognition on High-Performance Embedded Architectures ([publication](https://www.linkedin.com/posts/omar-montenegro-mac%C3%ADa-02650a27b_memoria-tfm-activity-7433140966062075904-8XP7/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEQ9r54B4yRM2L_mEAazKPyOvSZfRE6yLkc)).
+
+**Bachelor's Degree in Computer Engineering (Final Grade: 8.0/10) - UDC | 09/2020 – 07/2024**
+
+- Bachelor's Thesis (Grade: 8.8/10): Tool for Creating and Monitoring ROS (Robot Operating System) Missions for Precisely Localizable Mobile Robots ([repository](https://github.com/Omimacgithub/summit_xl_rosmc), [publication](https://ruc.udc.es/entities/publication/862bed3e-c7c4-4a71-95fc-fb7eae639d4d)).
+
+
+## Projects
+
+### Robotics
+
+(Bachelor's Thesis) I have experience on both ROS1 and ROS2 frameworks for building and deploying software. [summit_xl_rosmc](https://github.com/Omimacgithub/summit_xl_rosmc) repo contains a GUI tool integrated on the mobile robot Summit\_XL to ease its control for the end user.
 
 ## Languages and tools
 <div>
@@ -19,15 +75,4 @@ I am a Computer Engineering graduate and I have a master degree in High Performa
   <img src="https://github.com/devicons/devicon/blob/master/icons/scipy/scipy-original-wordmark.svg" title="Scipy" alt="Scipy logo" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C logo" width="80" height="80"/>&nbsp;
   
-</div>
-
-## Contact
-
-<div id="badges">
-  <a href="https://www.linkedin.com/in/omar-montenegro-macia">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:omarmontenegromacia@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/>
-  </a>
 </div>
