@@ -111,5 +111,7 @@ My main contributions were the following:
   <img src="https://github.com/devicons/devicon/blob/master/icons/slurm/slurm-original-wordmark.svg" title="Slurm" alt="Slurm logo" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/scipy/scipy-original-wordmark.svg" title="Scipy" alt="Scipy logo" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C logo" width="80" height="80"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ros/ros-original-wordmark.svg" title="ROS" alt="ROS logo" width="80" height="80"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ros2/ros2-original-wordmark.svg" title="ROS2" alt="ROS2 logo" width="80" height="80"/>&nbsp;
   
 </div>
