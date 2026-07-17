@@ -11,9 +11,9 @@
 
 ## About myself
 
-I am a Computer Engineering graduate and I have a master degree in High-Performance Computing (HPC). My motivation is centered on developing solutions to real-world problems by applying the latest advances in Machine Learning, as well as their subsequent optimization and deployment on cloud infrastructures and HPC clusters.
+Computer Engineering graduate specialized in High-Performance Computing (HPC). My motivation is centered on developing solutions to real-world problems by applying the latest advances in Machine Learning, as well as their subsequent optimization and deployment on cloud infrastructures and HPC clusters.
 
-I also have experience in Robotics and related technologies. SLAM, GPS localization, intelligent algorithms and related technologies are of my interest!
+I also have experience in Robotics. SLAM, GPS localization, intelligent algorithms and related technologies are of my interest!
 
 - 🔭 I’m currently investigating on ways to implement a multi-modal RAG system on [JETRAG](https://github.com/Omimacgithub/JETRAG).
 - 🌱 I’m currently learning about Machine Learning applied to solve Natural Language Processing tasks.
@@ -24,7 +24,7 @@ I also have experience in Robotics and related technologies. SLAM, GPS localizat
 
 I worked as CITIC research Intern on the High-Performance Computing field. Despite having my own office seat, my site was on robotics lab, where I managed Summit_XL mobile robot for software development. My main contributions were the following:
 
-- Optimized image pre and post-processing pipelines, as well as computer vision models inference within a multi-camera detection and recognition system, reducing inference latency by up to six times.
+- Optimized image pre and post-processing pipelines, as well as computer vision models inference within a multi-camera detection and recognition system, reducing inference latency by up to six times using a GPU.
 
 - Integrated a Machine Learning algorithm that identifies new individuals based on the system's data distribution and includes them, thereby expanding the knowledge base without needing to retrain the models.
 
@@ -38,7 +38,7 @@ I worked as CITIC research Intern on the High-Performance Computing field. Despi
 
 My main contributions were the following:
 
-- Analyzed and modified React code within the company’s B2B Store (storefront), eliminating product loading errors and significantly improving user experience.
+- Analyzed and modified React code within the company’s B2B Store (storefront), removing product loading errors and significantly improving user experience.
 
 - Implemented resolvers (JavaScript code that integrates backend data, obtained via REST or GraphQL requests, into the frontend) for product details and gift card application at checkout on the B2B Store.
 
@@ -56,6 +56,36 @@ My main contributions were the following:
 
 ## Projects
 
+### Hackathon projects
+
+**HackUDC 2025 - Clothing Search and 3D Visualization Web Application ([repository](https://github.com/DisguisedPigeon/HackUDC2025))**
+
+- Implemented requests to external APIs to retrieve garment data and display it on the website using detailed and organized cards.
+
+**HackUDC 2024 - Electricity Bill Analysis Application using Pandas ([repository](https://github.com/DisguisedPigeon/HackUDC2024))**
+
+- Processed users' CSV electricity bills to generate yearly consumption visualizations, providing relevant insights such as the months with the highest energy expenditure.
+
+### AI-powered applications
+
+**JETRAG - Local RAG assitant targeting NVIDIA Jetson embedded systems ([repository](https://github.com/Omimacgithub/JETRAG) | 03/2026 – Present**
+
+- Developed an assistant which, using Retrieval-Augmented Generation, provides reasoned answers based on user-provided sources. Both the application and the language model (using Gemma-4-E2B) run **locally** on the device.
+
+### AWS works
+
+**Hadoop cluster deployment and maintenance lab on AWS ([repository](https://github.com/Omimacgithub/AWSHadoopLab/tree/main)) | 11/2024**
+
+- Worked with large files on HDFS and used backup tools, fsck, and EC, achieving data protection.
+
+**Scalability analysis of AWS infrastructure using the NPB benchmark ([repository](https://github.com/Omimacgithub/CFD-kernel-scalability-analysis-AWS)) | 12/2024**
+
+- Analyzed the influence of instance affinity on performance for communication-intensive workloads.
+
+- Compared the scalability of general-purpose instances vs compute-optimized instances for computation workloads.
+
+### HPC works
+
 ### Robotics
 
 (Bachelor's Thesis) I have experience on both ROS1 and ROS2 frameworks for building and deploying software. [summit_xl_rosmc](https://github.com/Omimacgithub/summit_xl_rosmc) repo contains a GUI tool integrated on the mobile robot Summit\_XL to ease its control for the end user.
@@ -71,6 +101,8 @@ My main contributions were the following:
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="Pytorch" alt="Pytorch logo" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas logo" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy logo" width="80" height="80"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original-wordmark.svg" title="Matplotlib" alt="Matplotlib logo" width="80" height="80"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/slurm/slurm-original-wordmark.svg" title="Slurm" alt="Slurm logo" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/scipy/scipy-original-wordmark.svg" title="Scipy" alt="Scipy logo" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C logo" width="80" height="80"/>&nbsp;
   
