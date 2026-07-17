@@ -86,9 +86,15 @@ My main contributions were the following:
 
 ### HPC works
 
+**BERT Fine-Tuning Performance Analysis on Finisterrae III using NVIDIA A100 GPUs. ([repository](https://github.com/Omimacgithub/HPCT_Lab-AI)) | 10/2024**
+
+- Analyzed the performance differences between a parallel training strategy (multiple GPUs) and a sequential one with a single GPU.
+
 ### Robotics
 
-(Bachelor's Thesis) I have experience on both ROS1 and ROS2 frameworks for building and deploying software. [summit_xl_rosmc](https://github.com/Omimacgithub/summit_xl_rosmc) repo contains a GUI tool integrated on the mobile robot Summit\_XL to ease its control for the end user.
+**SUMMIT_XL_ROSMC - GUI tool for performing missions on Robotnik Summit-XL mobile robot ([repository](https://github.com/Omimacgithub/summit_xl_rosmc)) | 02/2024 - 07/2024**
+
+- GUI tool integrated on the mobile robot Summit\_XL to ease its control for the end user.
 
 ## Languages and tools
 <div>
