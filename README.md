@@ -86,7 +86,7 @@ My main contributions were the following:
 
 ### HPC works
 
-**Sparse Matrix-Vector product optimization  ([repository](https://github.com/Omimacgithub/HPCT_Lab-AI)) | 12/2024**
+**Sparse Matrix-Vector product optimization  ([repository](https://github.com/Omimacgithub/spmv/)) | 12/2024**
 
 - Analyzed performance using several sparse matrix storage formats (COO, CSR and CSC).
 - Implemented and modified code to enable compiler autovectorization to achieve minimum latency on sparse Matrix-Vector product.
