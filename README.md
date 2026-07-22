@@ -86,6 +86,11 @@ My main contributions were the following:
 
 ### HPC works
 
+**Sparse Matrix-Vector product optimization  ([repository](https://github.com/Omimacgithub/HPCT_Lab-AI)) | 12/2024**
+
+- Analyzed performance using several sparse matrix storage formats (COO, CSR and CSC).
+- Implemented and modified code to enable compiler autovectorization to achieve minimum latency on sparse Matrix-Vector product.
+
 **BERT Fine-Tuning Performance Analysis on Finisterrae III using NVIDIA A100 GPUs. ([repository](https://github.com/Omimacgithub/HPCT_Lab-AI)) | 10/2024**
 
 - Analyzed the performance differences between a parallel training strategy (multiple GPUs) and a sequential one with a single GPU.
