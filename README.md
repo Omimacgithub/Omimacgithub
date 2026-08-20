@@ -28,11 +28,13 @@ I worked as CITIC research Intern on the High-Performance Computing field. Despi
 
 - Integrated a Machine Learning algorithm that identifies new individuals based on the system's data distribution and includes them, thereby expanding the knowledge base without needing to retrain the models.
 
+- Scaled the system to work with up to 10 cameras using NVIDIA RTX and GTX GPUs simultaneously in real-time.
+
 - Developed a face-tracking algorithm that efficiently recollects frame sequences for each individual. It was tested on videos sampled from two Kinect cameras installed on a mobile robot, with both people and the robot in motion, causing multiple visual occlusions involving objects and other people.
 
 - Deployed the system using Docker, creating separate containers for the application (with NVIDIA GPU support) and a Redis database. The deployment was managed through a docker-compose.yml configuration.
 
-- Researched and implemented a method for biometric template protection that prevents an attacker from reconstructing the original face image from model features, thereby fulfilling the requirements of the General Data Protection Regulation (GDPR). (WIP: publication).
+- Researched and implemented a method for biometric template protection that prevents an attacker from reconstructing the original face image from model features, thereby fulfilling the requirements of the General Data Protection Regulation (GDPR).
 
 **eCommerce Developer - Orienteed, S.L.U | 09/2023 – 12/2023** (External Internship)
 
@@ -70,7 +72,7 @@ My main contributions were the following:
 
 **JETRAG - Local RAG assitant targeting NVIDIA Jetson embedded systems ([repository](https://github.com/Omimacgithub/JETRAG) | 03/2026 – Present**
 
-- Developed an assistant which, using Retrieval-Augmented Generation, provides reasoned answers based on user-provided sources. Both the application and the language model (using Gemma-4-E2B) run **locally** on the device.
+- Developed an assistant which, using Retrieval-Augmented Generation, provides reasoned answers based on user-provided sources. Both the application and the language model (using Gemma4) run **locally** on the device.
 
 ### AWS works
 
