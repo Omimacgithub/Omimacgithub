@@ -103,6 +103,24 @@ My main contributions were the following:
 
 - GUI tool integrated on the mobile robot Summit\_XL to ease its control for the end user.
 
+## Courses
+
+### IT Automation
+
+**Google IT Automation with Python ([certificate](https://coursera.org/share/afc23e23747fced2a1359ba521254ca6)) | 06/2026 - 09/2026**
+
+Google course oriented to IT professionals. I highlight the following learned skills:
+
+- Deep understanding of basic and extended **regular expressions**, which is crucial for searching information on huge data.
+
+- Creation of Python scripts that manipulate and process big data files (e.g. csv and re modules).
+
+- Strong foundation on Git and GitHub for developing on collaborative environments and best practices (e.g. use of git rebase command to merge changes into a single commit, ready for merge on the production branch via pull request).
+
+- Solid understanding about what needs to be tested. Use of unittest and pytest modules to create and execute tests on Python.
+
+This course **is not properly updated** to the last trends on the industry. In fact, it teaches **Puppet**, a software management tool that stopped receiving updates 2 years ago. Otherwise, **it is useful** for IT professionals that want to deep dive into file manipulation with Python and Git/GitHub for team software development.
+
 ## Languages and tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python logo" width="80" height="80"/>&nbsp;
