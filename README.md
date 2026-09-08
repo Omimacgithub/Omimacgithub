@@ -11,9 +11,9 @@
 
 ## About myself
 
-Computer Engineering graduate specialized in High-Performance Computing (HPC). My motivation is centered on developing solutions to real-world problems by applying the latest advances in Machine Learning, as well as their subsequent optimization and deployment on cloud infrastructures and HPC clusters.
+Computer Engineering graduate with a Master's in High-Performance Computing (HPC). Specialized in designing and optimizing AI solutions. Experienced in Python architecture design, inference pipeline optimization, Docker deployment, and AWS-based performance analysis and scalability.
 
-I also have experience in Robotics. SLAM, GPS localization, intelligent algorithms and related technologies are of my interest!
+I also have hands-on experience in Robotics. SLAM, GPS localization, intelligent algorithms and related technologies are of my interest!
 
 - 🔭 I’m currently investigating on ways to implement a multi-modal RAG system on [JETRAG](https://github.com/Omimacgithub/JETRAG).
 - 🌱 I’m currently learning about Machine Learning applied to solve Natural Language Processing tasks.
@@ -28,7 +28,7 @@ I worked as CITIC research Intern on the High-Performance Computing field. Despi
 
 - Integrated a Machine Learning algorithm that identifies new individuals based on the system's data distribution and includes them, thereby expanding the knowledge base without needing to retrain the models.
 
-- Scaled the system to work with up to 10 cameras using NVIDIA RTX and GTX GPUs simultaneously in real-time.
+- Scaled the system, initially operating with 2 cameras, to work with up to 10 cameras simultaneously in real-time.
 
 - Developed a face-tracking algorithm that efficiently recollects frame sequences for each individual. It was tested on videos sampled from two Kinect cameras installed on a mobile robot, with both people and the robot in motion, causing multiple visual occlusions involving objects and other people.
 
@@ -40,9 +40,9 @@ I worked as CITIC research Intern on the High-Performance Computing field. Despi
 
 My main contributions were the following:
 
-- Analyzed and modified React code within the company’s B2B Store (storefront), removing product loading errors and significantly improving user experience.
+- Improved the user experience by fixing product loading errors through React code review of a B2B application.
 
-- Implemented resolvers (JavaScript code that integrates backend data, obtained via REST or GraphQL requests, into the frontend) for product details and gift card application at checkout on the B2B Store.
+- Provided detailed product information by integrating data via REST and GraphQL APIs.
 
 - Collaborated with multidisciplinary teams (development and QA) following Agile methodologies (Scrum).
 
@@ -72,9 +72,11 @@ My main contributions were the following:
 
 **JETRAG - Local RAG assitant targeting NVIDIA Jetson embedded systems ([repository](https://github.com/Omimacgithub/JETRAG) | 03/2026 – Present**
 
-- Developed an assistant which, using Retrieval-Augmented Generation, provides reasoned answers based on user-provided sources. Both the application and the language model (using Gemma4) run **locally** on the device.
+- Developed in FastAPI + SvelteKit a conversational assistant based on Retrieval-Augmented Generation (RAG) with the Gemma4 model. The architecture has been optimized for execution on embedded hardware (NVIDIA Jetson).
 
-### AWS works
+- Designed a CI/CD pipeline to automate app testing and deployment in Docker with a single command.
+
+### Cloud & Infrastructure (AWS)
 
 **Hadoop cluster deployment and maintenance lab on AWS ([repository](https://github.com/Omimacgithub/AWSHadoopLab/tree/main)) | 11/2024**
 
@@ -84,9 +86,9 @@ My main contributions were the following:
 
 - Analyzed the influence of instance affinity on performance for communication-intensive workloads.
 
-- Compared the scalability of general-purpose instances vs compute-optimized instances for computation workloads.
+- Analyzed the performance and scalability of different instances to determine the best cost-efficiency balance based on the workload.
 
-### HPC works
+### High-Performance Computing (HPC)
 
 **Sparse Matrix-Vector product optimization  ([repository](https://github.com/Omimacgithub/spmv/)) | 12/2024**
 
@@ -135,8 +137,8 @@ This course **is not properly updated** to the last trends on the industry. In f
   <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original-wordmark.svg" title="Matplotlib" alt="Matplotlib logo" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/slurm/slurm-original-wordmark.svg" title="Slurm" alt="Slurm logo" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/scipy/scipy-original-wordmark.svg" title="Scipy" alt="Scipy logo" width="80" height="80"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript logo" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C logo" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ros/ros-original-wordmark.svg" title="ROS" alt="ROS logo" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ros2/ros2-original-wordmark.svg" title="ROS2" alt="ROS2 logo" width="80" height="80"/>&nbsp;
-  
 </div>
