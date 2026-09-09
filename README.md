@@ -70,11 +70,15 @@ My main contributions were the following:
 
 ### AI-powered applications
 
-**JETRAG - Local RAG assitant targeting NVIDIA Jetson embedded systems ([repository](https://github.com/Omimacgithub/JETRAG) | 03/2026 – Present**
+**JETRAG - Local RAG assitant targeting NVIDIA Jetson embedded systems ([repository](https://github.com/Omimacgithub/JETRAG)) | 03/2026 – Present**
 
 - Developed in FastAPI + SvelteKit a conversational assistant based on Retrieval-Augmented Generation (RAG) with the Gemma4 model. The architecture has been optimized for execution on embedded hardware (NVIDIA Jetson).
 
 - Designed a CI/CD pipeline to automate app testing and deployment in Docker with a single command.
+
+**JA3 - Job Application Accelerator Agent ([repository](https://github.com/Omimacgithub/JA3)) | 09/2026 – Present**
+
+- Designed an AI agent workflow that automatically analyzes your profile, generates a new CV and motivation letter suited for the job offer and store each into a file.
 
 ### Cloud & Infrastructure (AWS)
 
