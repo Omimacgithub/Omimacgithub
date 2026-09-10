@@ -123,7 +123,7 @@ Google course oriented to IT professionals. I highlight the following learned sk
 
 - Strong foundation on Git and GitHub for developing on collaborative environments and best practices (e.g. use of git rebase command to merge changes into a single commit, ready for merge on the production branch via pull request).
 
-- Solid understanding about what needs to be tested. Use of unittest and pytest modules to create and execute tests on Python.
+- Use of unittest and pytest modules to create and execute tests on Python.
 
 This course **is not properly updated** to the last trends on the industry. In fact, it teaches **Puppet**, a software management tool that stopped receiving updates 2 years ago. Otherwise, **it is useful** for IT professionals that want to deep dive into file manipulation with Python and Git/GitHub for team software development.
 
