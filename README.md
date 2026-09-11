@@ -76,6 +76,8 @@ My main contributions were the following:
 
 - Developed in FastAPI + SvelteKit a conversational assistant based on Retrieval-Augmented Generation (RAG) with the Gemma4 model. The architecture has been optimized for execution on embedded hardware (NVIDIA Jetson).
 
+- Developed a RAG pipeline that transforms input sources into embeddings using all-MiniLM. Embeddings are stored in a Chroma vector DB, and retrieval is performed using an Approximate Nearest Neighbor algorithm.
+
 - Designed a CI/CD pipeline to automate app testing and deployment in Docker with a single command.
 
 **JA3 - Job Application Accelerator Agent ([repository](https://github.com/Omimacgithub/JA3)) | 09/2026 – Present**
