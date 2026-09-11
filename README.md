@@ -72,6 +72,8 @@ My main contributions were the following:
 
 **JETRAG - Local RAG assitant targeting NVIDIA Jetson embedded systems ([repository](https://github.com/Omimacgithub/JETRAG)) | 03/2026 – Present**
 
+- Defined architecture and design details on an AGENTS.md file for OpenCode to build the application.
+
 - Developed in FastAPI + SvelteKit a conversational assistant based on Retrieval-Augmented Generation (RAG) with the Gemma4 model. The architecture has been optimized for execution on embedded hardware (NVIDIA Jetson).
 
 - Designed a CI/CD pipeline to automate app testing and deployment in Docker with a single command.
