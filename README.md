@@ -1,3 +1,7 @@
+## What I do
+
+<img width="1152" height="648" alt="SUMMARY" src="https://github.com/user-attachments/assets/4ca03dc0-0403-4e70-9356-aa78d7b4d88b" />
+
 ## Contact
 
 <div id="badges">
