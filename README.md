@@ -27,7 +27,7 @@
 
 ## About myself
 
-Computer Engineering graduate with a Master's in High-Performance Computing (HPC). Specialized in designing and optimizing AI solutions. Experienced in Python architecture design, inference pipeline optimization, Docker deployment, and AWS-based performance analysis and scalability.
+Computer Engineering graduate from the University of A Coruña (UDC) with a Master's in High-Performance Computing (HPC). Specialized in designing and optimizing AI solutions. Experienced in Python architecture design, inference pipeline optimization, Docker deployment, and AWS-based performance analysis and scalability.
 
 I also have hands-on experience in Robotics. SLAM, GPS localization, intelligent algorithms and related technologies are of my interest!
 
@@ -36,7 +36,7 @@ I also have hands-on experience in Robotics. SLAM, GPS localization, intelligent
 
 ## Experience
 
-**HPC Research Intern – CITIC (Centro de Investigación en TIC) | 02/2025 – 08/2025** (External Internship)
+**HPC Research Intern – CITIC UDC Research Centre | 02/2025 – 08/2025** (External Internship)
 
 I worked as CITIC research Intern on the High-Performance Computing field. Despite having my own office seat, my site was on robotics lab, where I managed Summit_XL mobile robot for software development. My main contributions were the following:
 
