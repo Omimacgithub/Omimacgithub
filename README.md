@@ -2,17 +2,6 @@
 
 <img width="1152" height="648" alt="SUMMARY" src="https://github.com/user-attachments/assets/4ca03dc0-0403-4e70-9356-aa78d7b4d88b" />
 
-## Contact
-
-<div id="badges">
-  <a href="https://www.linkedin.com/in/omar-montenegro-macia">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:omarmontenegromacia@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/>
-  </a>
-</div>
-
 ## 💡 What can I bring to your team?
 
 - **Proven optimization and scalability**. During my internship at CITIC UDC Research Centre, I reduced computer vision pipeline latency by 6x and scaled a real-time detection and recognition system from 2 to 10 cameras.
@@ -24,6 +13,17 @@
 - **Continuous learning in AI and HPC**. In February, I completed my Master's in HPC (High-Performance Computing), during the summer I earned the Google IT Automation with Python Professional Certificate, and next month I will begin the INDITEX UDC Chair in AI for Green Algorithms.
 
 - **Attitude, honesty, and commitment**. I am driven to collaborate within a professional team, working in a transparent, approachable, and honest manner.
+
+## Contact
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/omar-montenegro-macia">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:omarmontenegromacia@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/>
+  </a>
+</div>
 
 ## About myself
 
