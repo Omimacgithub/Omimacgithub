@@ -1,4 +1,4 @@
-## What I do
+## 🛠️ What I do
 
 <img width="1152" height="648" alt="SUMMARY" src="https://github.com/user-attachments/assets/4ca03dc0-0403-4e70-9356-aa78d7b4d88b" />
 
@@ -12,6 +12,18 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/>
   </a>
 </div>
+
+## 💡 What can I bring to your team?
+
+- **Proven optimization and scalability**. During my internship at CITIC UDC Research Centre, I reduced computer vision pipeline latency by 6x and scaled a real-time detection and recognition system from 2 to 10 cameras.
+
+- **Design and implementation of AI solutions**. Combining my architectural and design decisions with the code-generation power of AI agents, I developed a full-stack conversational assistant application featuring RAG and Gemma4 as the core model. This application was designed to run on low-power edge devices like the NVIDIA Jetson Orin Nano.
+
+- **Software validation and containerized deployment**. I implement CI/CD pipelines to automate testing and deploy applications using a single command in Docker containers, ensuring portability and security.
+
+- **Continuous learning in AI and HPC**. In February, I completed my Master's in HPC (High-Performance Computing), during the summer I earned the Google IT Automation with Python Professional Certificate, and next month I will begin the INDITEX UDC Chair in AI for Green Algorithms.
+
+- **Attitude, honesty, and commitment**. I am driven to collaborate within a professional team, working in a transparent, approachable, and honest manner.
 
 ## About myself
 
