@@ -40,13 +40,13 @@ I also have hands-on experience in Robotics. SLAM, GPS localization, intelligent
 
 I worked as CITIC research Intern on the High-Performance Computing field. Despite having my own office seat, my site was on robotics lab, where I managed Summit_XL mobile robot for software development. My main contributions were the following:
 
-- Optimized image pre and post-processing pipelines, as well as computer vision models inference within a multi-camera detection and recognition system, reducing inference latency by up to six times using a GPU.
+- Optimized image pre and post-processing pipelines, as well as computer vision models inference within a multi-camera detection and recognition system, **reducing inference latency by up to six times** using a GPU ([page 43](#https://ruc.udc.es/entities/publication/b6cf946f-ca84-4043-8375-0c24e31e5736)).
 
-- Integrated a Machine Learning algorithm that identifies new individuals based on the system's data distribution and includes them, thereby expanding the knowledge base without needing to retrain the models.
-
-- Scaled the system, initially operating with 2 cameras, to work with up to 10 cameras simultaneously in real-time.
+- Scaled the system, initially operating with 2 cameras, to work with up to 10 cameras simultaneously in real-time while maintaining a detection precision of **85%** ([page 50](#https://ruc.udc.es/entities/publication/b6cf946f-ca84-4043-8375-0c24e31e5736)).
 
 - Developed a face-tracking algorithm that efficiently recollects frame sequences for each individual. It was tested on videos sampled from two Kinect cameras installed on a mobile robot, with both people and the robot in motion, causing multiple visual occlusions involving objects and other people.
+
+- Integrated a Machine Learning algorithm that identifies new individuals based on the system's data distribution and includes them, thereby expanding the knowledge base without needing to retrain the models. Achieved **76.3%** of F1_score on a non-supervised initialization (the system is initialized with unlabeled data) and using real data (person images taken with a camera with factors like blur, poor illumination, etc).
 
 - Deployed the system using Docker, creating separate containers for the application (with NVIDIA GPU support) and a Redis database. The deployment was managed through a docker-compose.yml configuration.
 
