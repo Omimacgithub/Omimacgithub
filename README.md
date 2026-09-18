@@ -50,6 +50,8 @@ I worked as CITIC research Intern on the High-Performance Computing field. Despi
 
 - Deployed the system using Docker, creating separate containers for the application (with NVIDIA GPU support) and a Redis database. The deployment was managed through a docker-compose.yml configuration.
 
+- Migrated camera and integration node code from ROS 1 (Noetic) to ROS 2 (Humble/Rolling).
+
 - Researched and implemented a method for biometric template protection that prevents an attacker from reconstructing the original face image from model features, thereby fulfilling the requirements of the General Data Protection Regulation (GDPR).
 
 **eCommerce Developer - Orienteed, S.L.U | 09/2023 – 12/2023** (External Internship)
@@ -127,7 +129,13 @@ My main contributions were the following:
 
 **SUMMIT_XL_ROSMC - GUI tool for performing missions on Robotnik Summit-XL mobile robot ([repository](https://github.com/Omimacgithub/summit_xl_rosmc)) | 02/2024 - 07/2024**
 
-- GUI tool integrated on the mobile robot Summit\_XL to ease its control for the end user.
+- Integrated [ROSMC](https://github.com/DLR-RM/rosmc), a ROS package with a GUI tool for issuing and monitoring mobile robot missions, on the mobile robot **Summit\_XL** to ease its control for the end user.
+
+- Programmed mapping environment and capturing imagery robot actions with RAFCON and rospy API.
+
+- Validated software performance across simulated (Gazebo simulations) and real-world environments, encompassing indoor navigation (Adaptive Monte Carlo Localization) and outdoor localization using Extended Kalman Filtering with Odometry and GPS data for pose prediction.
+
+- Integrating OpenStreetMap into the GUI to facilitate point-of-interest selection for robot navigation.
 
 ## Courses
 
