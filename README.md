@@ -89,7 +89,7 @@ My main contributions were the following:
 
 **HackUDC 2025 - Clothing Search and 3D Visualization Web Application ([repository](https://github.com/DisguisedPigeon/HackUDC2025))**
 
-- Implemented requests to external APIs to retrieve garment data and display it on the website using detailed and organized cards.
+- Integrated and consumed external REST APIs to retrieve garment data and render it dynamically on the web interface.
 
 **HackUDC 2024 - Electricity Bill Analysis Application using Pandas ([repository](https://github.com/DisguisedPigeon/HackUDC2024))**
 
