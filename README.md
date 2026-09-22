@@ -112,7 +112,7 @@ My main contributions were the following:
 
 **JA3 - Job Application Accelerator Agent ([repository](https://github.com/Omimacgithub/JA3)) | 09/2026 – Present**
 
-- Designed an AI agent n8n workflow that automatically analyzes your profile, generates a new CV and motivation letter suited for the job offer and store each into a file.
+- Designed an agentic workflow in n8n that automatically analyzes your profile, generates a new CV and motivation letter suited for the job offer and store each into a file.
 
 </details>
 
