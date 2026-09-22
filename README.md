@@ -108,6 +108,8 @@ My main contributions were the following:
 
 - Developed a RAG pipeline that transforms input sources into embeddings using all-MiniLM. Embeddings are stored in a Chroma vector DB, and retrieval is performed using an Approximate Nearest Neighbor algorithm.
 
+- Implemented a RAG evaluation pipeline (LLM-as-a-judge), which reports **63.1% of precission** using my naive RAG approach on a [HuggingFace dataset](https://huggingface.co/datasets/m-ric/huggingface_doc_qa_eval).
+
 - Designed a CI/CD pipeline to automate app testing and deployment in Docker with a single command.
 
 **JA3 - Job Application Accelerator Agent ([repository](https://github.com/Omimacgithub/JA3)) | 09/2026 – Present**
