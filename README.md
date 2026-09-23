@@ -12,7 +12,7 @@
 
 - **Software validation and containerized deployment**. I implement CI/CD pipelines to automate testing and deploy applications using a single command in Docker containers, ensuring portability and security.
 
-- **Continuous learning in AI and HPC**. In February, I completed my Master's in HPC (High-Performance Computing), during the summer I earned the Google IT Automation with Python Professional Certificate, and next month I will begin the INDITEX UDC Chair in AI for Green Algorithms.
+- **Continuous learning in AI and HPC**. Next month I will begin the INDITEX UDC Chair in AI for Green Algorithms.
 
 - **Attitude, honesty, and commitment**. I am driven to collaborate within a professional team, working in a transparent, approachable, and honest manner.
 
