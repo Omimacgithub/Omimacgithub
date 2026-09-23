@@ -69,7 +69,7 @@ My main contributions were the following:
 
 - Provided detailed product information by integrating data via REST and GraphQL APIs.
 
-- Collaborated with multidisciplinary teams (development and QA) following Agile methodologies (Scrum).
+- Collaborated with the development team following Agile methodologies (Scrum).
 </details>
 
 ## Education
