@@ -41,7 +41,7 @@ I also have hands-on experience in Robotics. SLAM, GPS localization, intelligent
 ## Experience
 
 <details>
-<summary><b>HPC Research Intern – CITIC UDC Research Centre | 02/2025 – 08/2025** (External Internship)</b></summary>
+<summary><b>HPC Research Intern – CITIC UDC Research Centre | 02/2025 – 08/2025 (External Internship)</b></summary>
 
 I worked as CITIC research Intern on the High-Performance Computing field. Despite having my own office seat, my site was on robotics lab, where I managed Summit_XL mobile robot for software development. My main contributions were the following:
 
@@ -61,7 +61,7 @@ I worked as CITIC research Intern on the High-Performance Computing field. Despi
 </details>
 
 <details>
-<summary><b>eCommerce Developer - Orienteed, S.L.U | 09/2023 – 12/2023** (External Internship)</b></summary>
+<summary><b>eCommerce Developer - Orienteed, S.L.U | 09/2023 – 12/2023 (External Internship)</b></summary>
 
 My main contributions were the following:
 
